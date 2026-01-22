@@ -1,50 +1,32 @@
-## 👋 Olá! Eu sou o Roberto Rodrigues
+# Olá, eu sou o Roberto Rodrigues 👋
 
-🎯 **Em busca da primeira oportunidade em Suporte Técnico**  
-💻 **Estudante de Engenharia de Software**  
-🔧 Interessado em hardware, redes, sistemas operacionais e desenvolvimento de software.  
-📚 Sempre aprendendo e construindo projetos para evoluir na prática.
+Engenheiro de Software em formação e profissional de TI com foco em **Quality Assurance (QA)**. 
+Minha base técnica vem do Suporte de TI, o que me deu uma visão crítica sobre a experiência do usuário e facilidade em diagnosticar falhas complexas.
 
----
-
-### 🚀 **Sobre mim**
-- Estudando fundamentos de TI e Engenharia de Software  
-- Praticando troubleshooting, redes e lógica de programação  
-- Apaixonado por tecnologia e por resolver problemas  
-- Focado em iniciar minha carreira em **Suporte Técnico / Service Desk**
+### 🎯 Objetivo
+Atualmente estou transicionando minha carreira para a área de Qualidade, unindo meus conhecimentos de infraestrutura e sistemas com metodologias de testes para garantir softwares robustos e eficientes.
 
 ---
 
-### 🛠️ **Tecnologias e Ferramentas**
-- **Sistemas Operacionais:** Windows, Linux (iniciante)  
-- **Redes:** conceitos básicos de TCP/IP, DNS, DHCP, cabeamento e configuração inicial  
-- **Hardware:** montagem, manutenção e diagnóstico  
-- **Programação:** C, C++, CSS, HTML, Banco de Dados MYSQL, Python (iniciante), JavaScript (iniciante)  
-- **Ferramentas:** Git, GitHub, VS Code, pacote Office  
-- **Aprendizado atual:** fundamentos de Engenharia de Software, versionamento, boas práticas
+### 🛠️ Tecnologias e Ferramentas
+
+* **Testes:** Testes Manuais, Escrita de Casos de Teste, Reporte de Bugs.
+* **Linguagens & Banco de Dados:** Estudando Python e SQL para automação e consultas.
+* **Metodologias:** Scrum, Kanban e Ciclo de Vida de Desenvolvimento (SDLC).
+* **Suporte & Infra:** Windows/Linux, Redes, Troubleshooting e Atendimento ao Usuário.
 
 ---
 
-### 📈 **O que estou estudando agora**
-- Engenharia de Software  
-- Suporte Técnico e Service Desk  
-- Redes de computadores  
-- Versionamento com Git e GitHub  
-- Desenvolvimento de software (fundamentos)
+### 🚀 Estudos Atuais (Foco em QA)
+- 🎓 **Graduação:** Engenharia de Software (Centro Universitário Fametro)
+- 🧪 **QA:** Fundamentos de Teste de Software, ISTQB (Estudos), Automação básica.
+- 🔧 **Ferramentas:** Jira, Trello, Postman (Iniciante).
 
 ---
 
-### 📫 **Contato**
-- **Email:** roberto22006nascimento@gmail.com
-- **LinkedIn:** www.linkedin.com/in/roberto-rodrigues-610025313
-- **GitHub:** github.com/roberto-engsoftware
+### 📫 Como me encontrar
+* **LinkedIn:** [linkedin.com/in/roberto-rodrigues-610025313](https://www.linkedin.com/in/roberto-rodrigues-610025313)
+* **Email:** roberto22006nascimento@gmail.com
 
 ---
-
-### ⭐ **Objetivo**
-Construir minha primeira experiência profissional na área de TI, desenvolver minhas habilidades em suporte técnico e evoluir para áreas de infraestrutura ou desenvolvimento de software.
-
----
-
-### 💬 Obrigado por visitar meu perfil!
-Sempre aberto para aprender, colaborar e evoluir 🚀
+*"A qualidade não é um ato, é um hábito."*
