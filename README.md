@@ -1,32 +1,51 @@
 # Olá, eu sou o Roberto Rodrigues 👋
 
-Engenheiro de Software em formação e profissional de TI com foco em **Quality Assurance (QA)**. 
-Minha base técnica vem do Suporte de TI, o que me deu uma visão crítica sobre a experiência do usuário e facilidade em diagnosticar falhas complexas.
+Desenvolvedor **Java** em formação e profissional de TI, com base sólida em Suporte Técnico e foco em desenvolvimento de aplicações backend e lógica de negócios.
 
-### 🎯 Objetivo
-Atualmente estou transicionando minha carreira para a área de Qualidade, unindo meus conhecimentos de infraestrutura e sistemas com metodologias de testes para garantir softwares robustos e eficientes.
+Minha experiência em TI me proporcionou uma visão crítica sobre estabilidade, desempenho e experiência do usuário, o que aplico diretamente no desenvolvimento de software.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-* **Testes:** Testes Manuais, Escrita de Casos de Teste, Reporte de Bugs.
-* **Linguagens & Banco de Dados:** Estudando Python e SQL para automação e consultas.
-* **Metodologias:** Scrum, Kanban e Ciclo de Vida de Desenvolvimento (SDLC).
-* **Suporte & Infra:** Windows/Linux, Redes, Troubleshooting e Atendimento ao Usuário.
+## 🎯 Objetivo
+Atualmente estou focado em evoluir como **Desenvolvedor Java**, aprofundando meus conhecimentos em lógica de programação, orientação a objetos e construção de aplicações robustas, limpas e bem estruturadas.
 
 ---
 
-### 🚀 Estudos Atuais (Foco em QA)
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagem & Backend
+- **Java** (lógica, estruturas de controle, POO)
+- Entrada de dados com **Scanner**
+- Desenvolvimento de aplicações via terminal
+
+### 🧠 Fundamentos
+- Lógica de Programação
+- Estruturas de Controle (`if`, `while`, `switch`)
+- Orientação a Objetos (em evolução)
+
+### 🧰 Ferramentas
+- IntelliJ IDEA
+- Git & GitHub
+- Windows / Linux
+
+---
+
+## 🚀 Estudos Atuais (Foco em Java)
 - 🎓 **Graduação:** Engenharia de Software (Centro Universitário Fametro)
-- 🧪 **QA:** Fundamentos de Teste de Software, ISTQB (Estudos), Automação básica.
-- 🔧 **Ferramentas:** Jira, Trello, Postman (Iniciante).
+- ☕ **Java:** Fundamentos, POO, boas práticas e projetos práticos
+- 🔜 Próximos passos: Collections, Exceptions, JDBC e Spring Boot
 
 ---
 
-### 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/roberto-rodrigues-610025313](https://www.linkedin.com/in/roberto-rodrigues-610025313)
-* **Email:** roberto22006nascimento@gmail.com
+## 📂 Projetos
+- 💳 **BankServices (Java)**  
+  Sistema bancário simples via terminal, com menu interativo, consulta de saldo, depósito e transferência.
 
 ---
-*"A qualidade não é um ato, é um hábito."*
+
+## 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/roberto-rodrigues-610025313](https://www.linkedin.com/in/roberto-rodrigues-610025313)
+- **Email:** roberto22006nascimento@gmail.com
+
+---
+*"Código limpo não é escrito seguindo regras, mas sim com cuidado e intenção."*
