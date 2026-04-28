@@ -4,7 +4,7 @@ Sou estudante de **Engenharia de Software** e estou construindo minha trajetóri
 
 Atualmente, também atuo na área de suporte técnico em TI, o que tem me ajudado a desenvolver visão analítica, atendimento ao usuário, resolução de problemas e entendimento de sistemas na prática.
 
-Tenho inglês intermediário, entre os níveis **B1/C1**, e sigo estudando para melhorar minha comunicação técnica e profissional.
+Tenho inglês intermediário, entre os níveis **B2/C1**, e sigo estudando para melhorar minha comunicação técnica e profissional.
 
 ## 🚀 Sobre mim
 
