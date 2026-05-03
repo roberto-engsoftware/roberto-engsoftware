@@ -1,113 +1,130 @@
-# Olá, eu sou o Roberto 👋
+# Olá, eu sou o Roberto! 👋
 
-Sou estudante de **Engenharia de Software** e estou construindo minha trajetória na área de Tecnologia da Informação, com foco em **Quality Assurance (QA), testes de software e desenvolvimento**.
+**Engenharia de Software • QA em Formação • Técnico de TI Jr**
 
-Atualmente, também atuo na área de suporte técnico em TI, o que tem me ajudado a desenvolver visão analítica, atendimento ao usuário, resolução de problemas e entendimento de sistemas na prática.
+📍 Manaus, AM — Brasil  
+🔗 [LinkedIn](https://www.linkedin.com/in/roberto-rodrigues-610025313) · [GitHub](https://github.com/roberto-engsoftware) · 📧 roberto2006nascimento@gmail.com
 
-Tenho inglês intermediário, entre os níveis **B2/C1**, e sigo estudando para melhorar minha comunicação técnica e profissional.
+---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Estou em constante aprendizado e busco evoluir através de cursos, projetos práticos e experiências reais na área de tecnologia.
+Sou estudante de **Engenharia de Software** com foco em **Quality Assurance**, testes de software e desenvolvimento. Atualmente atuo como **Técnico de TI Jr** em suporte a sistemas de saúde pública, onde desenvolvi visão analítica, documentação de falhas e validação de sistemas na prática — competências que aplico diretamente nos meus estudos de QA.
 
-Tenho interesse especial por:
+- 🧪 Experiência com testes manuais, funcionais, negativos e bug report
+- 🤖 Iniciando estudos em automação com Cypress
+- 🏥 Suporte técnico nos sistemas PEC e SALUX (saúde pública)
+- 🌎 Inglês intermediário — B2/C1
+- 🎯 Buscando **estágio em QA / Testes de Software**
 
-- Quality Assurance
-- Testes manuais
-- Testes funcionais
-- Análise de bugs
-- Documentação de testes
-- Git e GitHub
-- Java
-- Python básico/intermediário
-- JavaScript/TypeScript
-- React Native/Expo
-- SQL básico
-- Lógica de programação
-- Metodologias ágeis
+---
 
-## 🧪 Projetos e estudos em QA
+## 🧪 Projetos de QA
 
-### FuelMap Manaus
+### ✅ QA Manual — SauceDemo E-commerce
+> Testes manuais em fluxo completo de e-commerce
 
-Projeto web/mobile desenvolvido com **React Native/Expo**, voltado para consulta de preços de combustíveis em Manaus.
+- 14 casos de teste criados e executados
+- Cobertura: login, listagem de produtos, carrinho, checkout e logout
+- 1 bug identificado e documentado com severidade, prioridade e impacto ao usuário
+- Evidências registradas em cada cenário
 
-Nesse projeto, atuei realizando testes e melhorias funcionais, como:
+**Competências:** Testes Manuais · Casos de Teste · Bug Report · Testes Negativos · Git/GitHub · Markdown
 
-- Testes no fluxo de login social simulado
-- Validação de redirecionamento após autenticação OAuth
-- Testes de busca por bairro, rua, nome do posto e bandeira
-- Validação do botão “Como Chegar” integrado ao Google Maps
-- Versionamento das alterações com Git/GitHub em branch separada
+---
 
-Esse projeto me ajudou a praticar conceitos importantes de QA, como análise de cenários, testes funcionais, testes de regressão, validação de bugs e experiência do usuário.
+### ✅ QA Manual — OrangeHRM Login
+> Testes manuais na tela de login do OrangeHRM Demo
 
-### Testes de Login — OrangeHRM Demo
+- Criação de cenários de teste estruturados
+- Validação com credenciais válidas, inválidas e campos obrigatórios vazios
+- Análise de mensagens de erro e comportamento esperado vs obtido
 
-Projeto prático de **QA Manual** focado na validação da tela de login da plataforma OrangeHRM Demo.
+**Competências:** Testes Manuais · Cenários de Teste · Análise de Bug · Documentação
 
-Durante esse estudo, pratiquei:
+---
 
-- Criação de cenários de teste
-- Execução de testes manuais
-- Validação de login com credenciais válidas e inválidas
-- Testes com campos obrigatórios vazios
-- Análise de mensagens de erro
-- Registro de resultados esperados e obtidos
+### ✅ FuelMap Manaus — Testes Funcionais
+> Testes em projeto web/mobile real para consulta de preços de combustíveis em Manaus
 
-## 💻 Projetos de programação
+- Testes no fluxo de login social simulado e redirecionamento OAuth
+- Validação de busca por bairro, rua, nome do posto e bandeira
+- Testes do botão "Como Chegar" integrado ao Google Maps
+- Versionamento em branch separada com Git/GitHub
 
-### BankServices
+**Competências:** Testes Funcionais · Testes de Regressão · React Native · OAuth · Git/GitHub
 
-Projeto simples desenvolvido em **Java** para praticar lógica de programação e conceitos iniciais de orientação a objetos.
+---
 
-O sistema simula operações bancárias básicas, como:
+### 🚧 Automação — Adopet com Cypress *(em andamento)*
+> Automação end-to-end baseada na aplicação Adopet — curso Alura
 
-- Consulta de saldo
-- Depósito
-- Saque
-- Validação de saldo insuficiente
-- Validação de valores inválidos
+- Automação de testes com Cypress + JavaScript
+- Validação de elementos de interface, navegação e fluxos da aplicação
+- Projeto atualizado conforme avanço nos estudos
 
-## 🛠️ Tecnologias e ferramentas
+**Competências:** Cypress · Automação de Testes · JavaScript · End-to-End · Git/GitHub
 
-- Java
-- Python
-- JavaScript
-- TypeScript
-- React Native
-- Expo
-- Git
-- GitHub
-- SQL básico
-- Testes manuais
-- Testes funcionais
-- Documentação de testes
-- Metodologias ágeis
+---
+
+## 💻 Projetos de Desenvolvimento
+
+### BankServices — Java
+> Sistema bancário simples para praticar lógica e orientação a objetos
+
+- Consulta de saldo, depósito e saque
+- Validação de saldo insuficiente e valores inválidos
+
+**Competências:** Java · POO · Lógica de Programação
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**QA & Testes**  
+`Testes Manuais` `Cypress` `Bug Report` `Casos de Teste` `Testes Funcionais` `Testes de Regressão`
+
+**Linguagens**  
+`Java` `Python` `JavaScript` `TypeScript` `SQL`
+
+**Ferramentas & Outros**  
+`Git` `GitHub` `React Native` `Expo` `Scrum` `Metodologias Ágeis`
+
+---
 
 ## 📚 Atualmente estudando
 
-- Quality Assurance
-- Gestão de bugs
-- Tipos de teste
-- Git/GitHub
-- Java
-- Python
-- Banco de dados
-- Metodologias ágeis
+- Quality Assurance — gestão de bugs e tipos de teste
+- Automação com Cypress
+- Java — orientação a objetos
+- Python para dados
+- Banco de dados / SQL
 - Desenvolvimento web/mobile
 
-## 🎯 Objetivo
+---
 
-Meu objetivo é continuar evoluindo na área de tecnologia, principalmente em **QA e testes de software**, aplicando meus conhecimentos em projetos reais, aprendendo com a prática e contribuindo para a qualidade de sistemas e aplicações.
+## 📋 Cursos concluídos
+
+| Curso | Plataforma |
+|---|---|
+| Quality Assurance: Plano e Gestão de Bugs | Alura |
+| Git e GitHub: Compartilhando e Colaborando em Projetos | Alura |
+| Metodologia Ágil: Fundamentos | Alura |
+| SQLite Online | Alura |
+| Lógica de Programação com JavaScript | Alura |
+| Pensamento Computacional: Fundamentos | Alura |
+| Python para Dados | Alura |
+| Java: Criando sua Primeira Aplicação | Alura |
+
+---
 
 ## 🌎 Idiomas
 
-- Português: nativo
-- Inglês: intermediário — B2/C1
+| Idioma | Nível |
+|---|---|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Intermediário — B2/C1 |
 
-## 📫 Contato
+---
 
-- LinkedIn: [Roberto Rodrigues](https://www.linkedin.com/in/roberto-rodrigues-610025313)
-- GitHub: [roberto-engsoftware](https://github.com/roberto-engsoftware)
-- E-mail: roberto2006nascimento@gmail.com
+*Aberto a oportunidades de estágio em QA, colaborações em projetos e troca de conhecimento em tecnologia.*
