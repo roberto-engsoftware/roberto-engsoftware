@@ -114,7 +114,7 @@ Hoje, meu foco é a **modernização da automação de testes**, com testes de A
 ⚡ Aberto a conexões, troca de conhecimento sobre **Qualidade de Software** e projetos **open-source**!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <a href="www.linkedin.com/in/roberto-rodrigues-610025313">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
