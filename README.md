@@ -1,130 +1,71 @@
-# Olá, eu sou o Roberto! 👋
+Olá, eu sou o Roberto! 👋
+Engenharia de Software • Estagiário de QA @ Venturus
+📍 Manaus, AM — Brasil
+🔗 LinkedIn · GitHub · 📧 roberto2006nascimento@gmail.com
 
-**Engenharia de Software • QA em Formação • Técnico de TI Jr**
+👨‍💻 Sobre mim
+Sou estudante de Engenharia de Software e atualmente atuo como Estagiário de Quality Assurance no Venturus. No meu dia a dia, trabalho focado em garantir a qualidade de aplicações mobile, executando testes manuais, exploratórios e de regressão. Utilizo ferramentas como ADB para análise de logs, Maestro para automação inicial de fluxos e Azure Test Plans para gestão estruturada de cenários e bugs.
 
-📍 Manaus, AM — Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/roberto-rodrigues-610025313) · [GitHub](https://github.com/roberto-engsoftware) · 📧 roberto2006nascimento@gmail.com
+Minha base técnica foi forjada no suporte a sistemas críticos de saúde pública (PEC e SALUX), o que me desenvolveu uma forte visão analítica, empatia pelo usuário e rigor na documentação de falhas. Hoje, meu foco de estudo está na modernização da automação de testes, mergulhando em testes de API e frameworks modernos como Playwright e Cypress.
 
----
+🧪 Testes & QA: Testes manuais, exploratórios, smoke tests, regressão e criação de mapas mentais.
 
-## Sobre mim
+📱 Mobile Testing: Experiência prática com ADB, Android Studio e automação básica com Maestro.
 
-Sou estudante de **Engenharia de Software** com foco em **Quality Assurance**, testes de software e desenvolvimento. Atualmente atuo como **Técnico de TI Jr** em suporte a sistemas de saúde pública, onde desenvolvi visão analítica, documentação de falhas e validação de sistemas na prática — competências que aplico diretamente nos meus estudos de QA.
+⚙️ Gestão de Bugs: Azure Test Plans (futuramente Jira), documentação detalhada e rastreabilidade.
 
-- 🧪 Experiência com testes manuais, funcionais, negativos e bug report
-- 🤖 Iniciando estudos em automação com Cypress
-- 🏥 Suporte técnico nos sistemas PEC e SALUX (saúde pública)
-- 🌎 Inglês intermediário — B2/C1
-- 🎯 Buscando **estágio em QA / Testes de Software**
+🌎 Idiomas: Inglês Intermediário/Avançado — B2/C1 (Consumo documentações e cursos internacionais).
 
----
+🧪 Projetos de QA
+✅ QA Manual — SauceDemo E-commerce
+Testes manuais em fluxo completo de e-commerce
 
-## 🧪 Projetos de QA
+14 casos de teste criados e executados (login, listagem, carrinho, checkout e logout).
 
-### ✅ QA Manual — SauceDemo E-commerce
-> Testes manuais em fluxo completo de e-commerce
+1 bug identificado e documentado com severidade, prioridade e impacto ao usuário.
 
-- 14 casos de teste criados e executados
-- Cobertura: login, listagem de produtos, carrinho, checkout e logout
-- 1 bug identificado e documentado com severidade, prioridade e impacto ao usuário
-- Evidências registradas em cada cenário
+Evidências registradas sistematicamente em cada cenário.
 
-**Competências:** Testes Manuais · Casos de Teste · Bug Report · Testes Negativos · Git/GitHub · Markdown
+Competências: Testes Manuais · Casos de Teste · Bug Report · Testes Negativos · Markdown
 
----
+✅ FuelMap Manaus — Testes Funcionais
+Testes em projeto web/mobile real para consulta de preços de combustíveis em Manaus
 
-### ✅ QA Manual — OrangeHRM Login
-> Testes manuais na tela de login do OrangeHRM Demo
+Validação de fluxos de login social simulado e redirecionamento OAuth.
 
-- Criação de cenários de teste estruturados
-- Validação com credenciais válidas, inválidas e campos obrigatórios vazios
-- Análise de mensagens de erro e comportamento esperado vs obtido
+Testes complexos de busca (bairro, rua, posto, bandeira) e integração com Google Maps.
 
-**Competências:** Testes Manuais · Cenários de Teste · Análise de Bug · Documentação
+Versionamento e controle de qualidade via Git/GitHub.
 
----
+Competências: Testes Funcionais · Testes de Regressão · React Native · Git/GitHub
 
-### ✅ FuelMap Manaus — Testes Funcionais
-> Testes em projeto web/mobile real para consulta de preços de combustíveis em Manaus
+✅ Automação Web — Adopet com Cypress
+Automação end-to-end completa baseada na aplicação Adopet
 
-- Testes no fluxo de login social simulado e redirecionamento OAuth
-- Validação de busca por bairro, rua, nome do posto e bandeira
-- Testes do botão "Como Chegar" integrado ao Google Maps
-- Versionamento em branch separada com Git/GitHub
+Validação estruturada de elementos de interface, navegação e fluxos completos da aplicação utilizando Cypress + JavaScript.
 
-**Competências:** Testes Funcionais · Testes de Regressão · React Native · OAuth · Git/GitHub
+Competências: Cypress · Automação E2E · JavaScript
 
----
+💻 Projetos de Desenvolvimento
+☕ BankServices — Java
+Sistema bancário para prática de Lógica e POO
 
-### 🚧 Automação — Adopet com Cypress *(em andamento)*
-> Automação end-to-end baseada na aplicação Adopet — curso Alura
+Simulação de consulta de saldo, depósito e saque com validações de regras de negócio (saldo insuficiente, valores inválidos).
 
-- Automação de testes com Cypress + JavaScript
-- Validação de elementos de interface, navegação e fluxos da aplicação
-- Projeto atualizado conforme avanço nos estudos
+Competências: Java · Programação Orientada a Objetos (POO) · Lógica de Programação
 
-**Competências:** Cypress · Automação de Testes · JavaScript · End-to-End · Git/GitHub
+🛠️ Tecnologias & Ferramentas
+QA & Testes: Testes Manuais/Exploratórios, Bug Report, Maestro (Mobile), ADB, Cypress, Azure Test Plans, Postman (APIs).
 
----
+Linguagens: Java, JavaScript, TypeScript, Python, SQL.
 
-## 💻 Projetos de Desenvolvimento
+Ferramentas & Outros: Git, GitHub, Android Studio, Metodologias Ágeis (Scrum).
 
-### BankServices — Java
-> Sistema bancário simples para praticar lógica e orientação a objetos
+📚 Atualmente estudando (Roadmap de Evolução)
+Automação Moderna: Transição para testes Web com Playwright + TypeScript + JavaScript.
 
-- Consulta de saldo, depósito e saque
-- Validação de saldo insuficiente e valores inválidos
+Testes de Backend: Automação e validação de APIs REST com Postman.
 
-**Competências:** Java · POO · Lógica de Programação
+Engenharia de Software: Aprofundamento em Programação Orientada a Objetos (Java/TS) para aplicar em Page Object Model (POM) na automação.
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-**QA & Testes**  
-`Testes Manuais` `Cypress` `Bug Report` `Casos de Teste` `Testes Funcionais` `Testes de Regressão`
-
-**Linguagens**  
-`Java` `Python` `JavaScript` `TypeScript` `SQL`
-
-**Ferramentas & Outros**  
-`Git` `GitHub` `React Native` `Expo` `Scrum` `Metodologias Ágeis`
-
----
-
-## 📚 Atualmente estudando
-
-- Quality Assurance — gestão de bugs e tipos de teste
-- Automação com Cypress
-- Java — orientação a objetos
-- Python para dados
-- Banco de dados / SQL
-- Desenvolvimento web/mobile
-
----
-
-## 📋 Cursos concluídos
-
-| Curso | Plataforma |
-|---|---|
-| Quality Assurance: Plano e Gestão de Bugs | Alura |
-| Git e GitHub: Compartilhando e Colaborando em Projetos | Alura |
-| Metodologia Ágil: Fundamentos | Alura |
-| SQLite Online | Alura |
-| Lógica de Programação com JavaScript | Alura |
-| Pensamento Computacional: Fundamentos | Alura |
-| Python para Dados | Alura |
-| Java: Criando sua Primeira Aplicação | Alura |
-
----
-
-## 🌎 Idiomas
-
-| Idioma | Nível |
-|---|---|
-| 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Intermediário — B2/C1 |
-
----
-
-*Aberto a oportunidades de estágio em QA, colaborações em projetos e troca de conhecimento em tecnologia.*
+⚡ Aberto a conexões, troca de conhecimentos sobre Qualidade de Software e projetos open-source!
